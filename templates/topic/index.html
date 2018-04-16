@@ -1,0 +1,97 @@
+{% extends "topic/base.html" %}
+{% block title %}
+论坛主页
+{% endblock %}
+{% block main %}
+    <div id="main">
+         <div id='sidebar'>
+            <div class='panel'>
+            <div class='header'>
+              <span class='col_fade'>个人信息</span>
+            </div>
+            <div class='inner'>
+            <div class='user_card'>
+
+                <a class='user_avatar' href="{{ url_for('index.user_detail', id=u.id) }}">
+                    <img src="{{u.user_image}}" title="u.username"/>
+                </a>
+                <span class='user_name'><a class='dark' href="{{ url_for('index.user_detail', id=u.id) }}">
+                            {{ u.username }}
+                </a></span>
+                <div class="space clearfix"></div>
+                 <span class="signature">
+                “
+
+                    这家伙很懒，什么个性签名都没有留下。
+
+                ”
+            </span>
+            </div>
+            </div>
+            </div>
+            <div class="panel">
+                <div class="inner">
+                    <a href="/topic/new?board_id={{ bid }}" class="create_topic_btn">
+                        <span class="span-success">发布话题</span>
+                    </a>
+                </div>
+            </div>
+       </div>
+
+    <div id="content">
+        <div class="panel">
+                <div class="header">
+                    <a href="/topic"
+                       class="topic-tab current-tab">
+                        全部
+                    </a>
+
+                    {% for b in bs %}
+                        <a href="/topic?board_id={{ b.id }}"
+                           class="topic-tab current-tab">
+                            {{ b.title }}
+                        </a>
+                    {% endfor %}
+                </div>
+                <div class="inner post">
+                    <div class="topic_list">
+                        {% for t in ms %}
+                            <div class="cell">
+                                <div class="topic_title_wrapper">
+
+                                    <a class="user_avatar pull-left">
+                                        <img src="{{ t.user().user_image }}" title="avatar"/>
+                                    </a>
+
+                                    <a class="topic_title" href="{{ url_for('topic.detail', id=t.id) }}">
+                                        {{ t.title }}
+                                    </a>
+                                    <span>{{ t.replies() | count }} / {{ t.views }}</span>
+                                    <a class="topic_title" href="{{ url_for('topic.delete', id=t.id, token=token) }}">
+                                        删除
+                                    </a>
+                                    <a class="reply_last" style="float:right">
+                                    {% if (t.reply_count()>0) %}
+                                    {% set last_r = t.last() %}
+
+                                        <img src="{{last_r.user().user_image}}" width=30px style="float:top" title="{{ last_r.user().username }}">
+                                        <!--<span class="liu-time" data-ct="{{ t.ct }}"></span>-->
+
+                                    {% endif %}
+                                    </a>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+    <script>
+        (function () {
+            var editor = new Editor();
+            editor.render($('.editor')[0]);
+        })();
+
+    </script>
+{% endblock %}

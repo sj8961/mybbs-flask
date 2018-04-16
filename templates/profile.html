@@ -1,0 +1,182 @@
+{% extends "base.html" %}
+{% block title %}
+论坛主页
+{% endblock %}
+{% block main %}
+
+<div id="main">
+    <div id="content">
+
+        <div class="panel">
+        <div class="header">
+          <ul class="breadcrumb">
+            <li>
+                <a href="http://127.0.0.0:3000/">主页</a>
+                <span class="divider">/</span></li>
+          </ul>
+        </div>
+
+        <div class="inner userinfo">
+            {% set u = user %}
+          <div class="user_big_avatar">
+            <img src="{{u.user_image}}" class="user_avatar" title="{{u.username}}">
+          </div>
+          <a class="dark">{{u.username}}</a>
+
+          <p class="col_fade">注册时间 1 年前</p>
+
+        </div>
+      </div>
+
+
+        <div class='panel'>
+        <div class='header'>
+            <span class="col_fade">最近创建的话题</span>
+        </div>
+        <div class="inner padding">
+        {% if (topic_count > 0 ) %}
+        {% for t in topics %}
+
+            {% set u = t.user() %}
+            <div class='cell topic_area topic_item'>
+                <a class='author_content'>
+                    <a class="user_img">
+                        <img src="{{u.user_image}}"
+                             title="{{ u.username }}"/>
+                        <a class="topic_view">
+                            {{ t.reply_count() }} / {{ t.views }}
+                        </a>
+                    </a>
+                    <a class="topic_title_wrapper">
+                         <a class="topic_title" style="color:blue;" href="{{ url_for('topic.detail', id=t.id) }}"  >
+                                    {{ t.title }}
+                         </a>
+                    </a>
+                    <span class='reply_info' style="float:right">
+                    {% if (t.reply_count()>0) %}
+                    {% set last_r = t.last() %}
+
+                        <img src="{{last_r.user().user_image}}" width=30px style="float:top" title="{{ last_r.user().username }}">
+                        <span class="liu-time" data-ct="{{ t.ct }}"></span>
+
+
+
+                    {% endif %}
+                    </span>
+                </a>
+            </div>
+        {% endfor %}
+        {% else %}
+        <div class="inner">
+          <p>无话题</p>
+        </div>
+        {% endif %}
+
+
+    </div>
+        </div>
+
+        <div class='panel'>
+        <div class='header'>
+            <span class="col_fade">最近参与的话题</span>
+        </div>
+        <div class="inner padding">
+        {% if (reply_count > 0 ) %}
+        {% for r in replies %}
+
+            {% set ts = Topic.all(id=r.topic_id) %}
+            {% for t in ts %}
+            <div class='cell reply_area reply_item'>
+                <a class='author_content'>
+                    <a class="user_img">
+                        <img src="{{t.user().user_image}}"
+                             title="{{ t.user().username }}"/>
+                        <a class="reply_view">
+                            {{ t.reply_count() }} / {{ t.views }}
+                        </a>
+                    </a>
+                    <a class="reply_title_wrapper">
+                         <a class="topic_title" style="color:blue;" href="{{ url_for('topic.detail', id=t.id) }}"  >
+                                    {{ t.title }}
+                         </a>
+                    </a>
+                    <span class='reply_info' style="float:right">
+                    {% if (t.reply_count()>0) %}
+                    {% set last_r = t.last() %}
+
+                        <img src="{{last_r.user().user_image}}" width=30px style="float:top" title="{{ last_r.user().username }}">
+                        <span class="liu-time" data-ct="{{ t.ct }}"></span>
+
+                    {% endif %}
+                    </span>
+                </a>
+            </div>
+            {% endfor %}
+        {% endfor %}
+        {% else %}
+        <div class="inner">
+          <p>无话题</p>
+        </div>
+        {% endif %}
+
+
+    </div>
+        </div>
+
+    </div>
+</div>
+
+    <script>
+        var e = function (sel) {
+            return document.querySelector(sel)
+        }
+
+        var es = function (sel) {
+            return document.querySelectorAll(sel)
+        }
+
+        var markContents = function () {
+            var contentDivs = es('.markdown-text')
+            for (var i = 0; i < contentDivs.length; i++) {
+                var contentDiv = contentDivs[i]
+                console.log('pre marked', contentDiv.textContent, contentDiv.innerHTML)
+                var content = marked(contentDiv.textContent)
+                console.log('after marked', content)
+                contentDiv.innerHTML = content
+            }
+        }
+
+        var highlight = function () {
+            var code_list = es('pre code')
+            for (var i = 0; i < code_list.length; i++) {
+                var code = code_list[i]
+                code.className = code.className.replace('lang', 'language')
+            }
+        }
+
+        var registerTimer = function () {
+            setInterval(function () {
+                var times = es('.liu-time')
+                for (var i = 0; i < times.length; i++) {
+                    var t = times[i]
+                    var time = Number(t.dataset.ct)
+                    var now = Math.floor(new Date() / 1000)
+                    var delta = Math.floor((now - time) / 3600)
+                    var day = Math.floor(delta / 24)
+                    var delta = delta % 24
+                    var s = `${day}天,${delta} 小时前`
+                    t.innerText = s
+                }
+            }, 1000)
+        }
+
+        var __main = function () {
+            markContents()
+            registerTimer()
+            highlight()
+        }
+
+        __main()
+    </script>
+
+{% endblock %}

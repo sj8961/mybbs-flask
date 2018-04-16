@@ -1,0 +1,1787 @@
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+19:59:44 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/8d0a2010-3bd8-4479-b144-4a6908710745.png'}}
+20:12:41 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/7946d174-488c-42f8-bed5-2a4c38ecb5a4.png'}}
+20:21:04 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/48f9a683-0c21-49bb-b849-18026a3c4d23.png'}}
+20:21:21 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/0f2d3b9b-867d-4504-a01d-de525a6ddb59.png'}}
+20:46:30 reply add
+20:46:30 before send mail ImmutableMultiDict([('topic_id', '59f31f8906ec6b41a4612b04'), ('content', 'test @guagua')])
+20:46:30 reply test @guagua
+20:46:30 reply [<User: 
+  user_image = /uploads/default.png
+  username = guagua
+  updated_time = 1509109257
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  deleted = False
+  id = 59f32e0906ec6b402049b35a
+  created_time = 1509109257
+  _id = 59f32e0906ec6b402049b35a
+>]
+20:46:30 <Mail: 
+  content = test @guagua
+  title = 你被 guagua AT 了
+  updated_time = 1514551590
+  deleted = False
+  id = 5a46392606ec6b48607beeec
+  _id = 5a46392606ec6b48607beeec
+  created_time = 1514551590
+  receiver_id = 59f32e0906ec6b402049b35a
+  sender_id = 59f31d1606ec6b24f4541057
+>
+20:46:30 after send mail
+15:50:26 check token 2f06280f-a6af-45ec-8cbd-3ac3f5d4967c 5a4dcf09828f7614146d0d52 False None
+16:00:11 check token 95aec7d8-5682-4316-adb8-c89fdc06c64f 5a4dcf09828f7614146d0d52
+16:00:47 reply add
+16:00:47 before send mail ImmutableMultiDict([('topic_id', '5a4ddf0b828f7611208d3b4b'), ('content', '回复1')])
+16:00:47 reply 回复1
+16:00:47 reply []
+16:00:47 after send mail
+16:01:12 check token 03b80abb-1c8e-49e8-8366-d20db54f6549 5a4dcf09828f7614146d0d52
+17:38:19 mongo update {'_id': ObjectId('5a4dcf09828f7614146d0d52')} {'$set': {'user_image': '/uploads/fd6c4d7d-41ca-466e-ab3b-687be003763b.png'}}
+23:28:44 check token 7a7ccea4-f3d3-4ef5-a6d8-ab1a39569ff1 5a4d0d2d8da65b0d6cccc779
+23:30:06 check token 502b8f77-2434-436c-b748-6b53012a3798 5a4d0d2d8da65b0d6cccc779
+23:30:22 check token d27b11e9-28b5-4a79-a6bc-3b00f9b70a18 5a4d0d2d8da65b0d6cccc779
+23:38:03 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 5
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:43:08 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 6
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:44:46 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 7
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:48:20 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 8
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:48:41 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 9
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:48:41 iidd 5a4d0d2d8da65b0d6cccc779
+23:49:32 tiezi <Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 10
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>
+23:49:32 iidd 5a4d0d2d8da65b0d6cccc779
+23:57:27 reply add
+23:57:27 before send mail ImmutableMultiDict([('topic_id', '5a4e488e8da65b1afceb5f3a'), ('content', 'ssssffffffff')])
+23:57:27 reply ssssffffffff
+23:57:27 reply []
+23:57:27 after send mail
+00:59:50 check token 059b1ded-cdb6-4c92-b798-a2ad2b539741 5a4d0d2d8da65b0d6cccc779
+01:01:07 mmmsss: [<Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 14
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>, <Topic: 
+  _id = 5a4e5d868da65b1f48eddec9
+  deleted = False
+  created_time = 1515085190
+  updated_time = 1515085190
+  views = 1
+  title = 222
+  content = 2222
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e5d868da65b1f48eddec9
+>]
+01:01:44 mmmsss: <class 'list'> [<Topic: 
+  _id = 5a4e488e8da65b1afceb5f3a
+  deleted = False
+  created_time = 1515079822
+  updated_time = 1515079822
+  views = 14
+  title = test
+  content = test1
+
+test2
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e488e8da65b1afceb5f3a
+>, <Topic: 
+  _id = 5a4e5d868da65b1f48eddec9
+  deleted = False
+  created_time = 1515085190
+  updated_time = 1515085190
+  views = 1
+  title = 222
+  content = 2222
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e5d868da65b1f48eddec9
+>]
+01:04:45 mmmsss: <class 'list'> <Topic: 
+  _id = 5a4e5d868da65b1f48eddec9
+  deleted = False
+  created_time = 1515085190
+  updated_time = 1515085190
+  views = 1
+  title = 222
+  content = 2222
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  board_id = 5a4e481c8da65b1afceb5f38
+  id = 5a4e5d868da65b1f48eddec9
+>
+01:14:00 reply add
+01:14:00 before send mail ImmutableMultiDict([('topic_id', '5a4e488e8da65b1afceb5f3a'), ('content', '2222')])
+01:14:00 reply 2222
+01:14:00 reply []
+01:14:00 after send mail
+01:58:00 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+01:58:00 huifu: [] 5a4e5d868da65b1f48eddec9
+02:00:26 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:00:26 huifu: [] 5a4e5d868da65b1f48eddec9
+02:07:21 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:07:21 huifu: [] 5a4e5d868da65b1f48eddec9
+02:12:35 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:12:35 huifu: [] 5a4e5d868da65b1f48eddec9
+02:19:41 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:19:41 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:19:41 huifu: [] 5a4e5d868da65b1f48eddec9
+02:19:41 huifu: [] 5a4e5d868da65b1f48eddec9
+02:19:49 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:19:49 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:19:49 huifu: [] 5a4e5d868da65b1f48eddec9
+02:19:49 huifu: [] 5a4e5d868da65b1f48eddec9
+02:22:20 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:22:20 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:22:20 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:22:20 huifu: [] 5a4e5d868da65b1f48eddec9
+02:22:20 huifu2: []
+02:22:20 huifu: [] 5a4e5d868da65b1f48eddec9
+02:23:15 huifu: 5a4e488e8da65b1afceb5f3a
+02:23:15 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:23:15 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:23:15 huifu: 5a4e5d868da65b1f48eddec9
+02:23:15 huifu2: []
+02:23:15 huifu: [] 5a4e5d868da65b1f48eddec9
+02:23:44 huifu: 5a4e488e8da65b1afceb5f3a
+02:23:44 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:23:44 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:23:44 huifu: 5a4e5d868da65b1f48eddec9
+02:23:44 huifu2: []
+02:23:44 huifu: [] 5a4e5d868da65b1f48eddec9
+02:24:43 huifu: 5a4e488e8da65b1afceb5f3a
+02:24:43 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:24:43 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:24:43 huifu: 5a4e5d868da65b1f48eddec9
+02:24:43 huifu2: []
+02:24:43 huifu: [] 5a4e5d868da65b1f48eddec9
+02:26:00 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:26:00 huifu: [] 5a4e5d868da65b1f48eddec9
+02:26:58 huifu3: 5a4d0d2d8da65b0d6cccc779
+02:26:58 huifu3: 5a4d0d2d8da65b0d6cccc779
+02:27:40 huifu: 5a4e488e8da65b1afceb5f3a
+02:27:40 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:27:40 huifu: 5a4e5d868da65b1f48eddec9
+02:27:40 huifu2: []
+02:28:21 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:28:21 huifu2: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>]
+02:28:21 huifu: [] 5a4e5d868da65b1f48eddec9
+02:28:21 huifu2: []
+02:33:00 huifu: [<Reply: 
+  _id = 5a4e4ee78da65b19c837e5f0
+  deleted = False
+  created_time = 1515081447
+  updated_time = 1515081447
+  content = ssssffffffff
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e4ee78da65b19c837e5f0
+>, <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>] 5a4e488e8da65b1afceb5f3a
+02:33:00 huifu2: <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>
+02:33:28 huifu: 5a4e488e8da65b1afceb5f3a
+02:33:28 huifu2: <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>
+02:40:03 huifu: 5a4e488e8da65b1afceb5f3a
+02:40:03 huifu2: <Reply: 
+  _id = 5a4e60d88da65b151ca0c638
+  deleted = False
+  created_time = 1515086040
+  updated_time = 1515086040
+  content = 2222
+  topic_id = 5a4e488e8da65b1afceb5f3a
+  user_id = 5a4d0d2d8da65b0d6cccc779
+  id = 5a4e60d88da65b151ca0c638
+>
+02:46:32 reply add
+02:46:32 before send mail ImmutableMultiDict([('topic_id', '5a4e488e8da65b1afceb5f3a'), ('content', 'gua222')])
+02:46:32 reply gua222
+02:46:32 reply []
+02:46:32 after send mail
+03:00:18 check token 5d01b8fd-c1cd-4df8-981c-8bc9567e10e9 5a4e76758da65b1dec862207
+03:10:22 mongo update {'_id': ObjectId('5a4e76758da65b1dec862207')} {'$set': {'user_image': '/uploads/407e326f-2675-4b8c-8d2e-a92a2b3c50ae.png'}}
+03:14:51 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/91469cca-fe1e-4153-a20b-c59ce260f56b.png'}}
+03:23:18 check token c41d01ed-111e-48af-bcfe-88691c7d8193 5a4e7e388da65b0f8c210dd9
+03:24:13 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/84604d40-4e94-4d9b-a24a-e84d79bb71dc.png'}}
+03:26:29 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/6d615569-c516-496c-847d-f8c4e8e7275a.png'}}
+03:26:53 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/6a9d0288-e818-44f4-b476-1729cb64398b.png'}}
+03:26:55 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/566c3ec8-d07f-4f3e-ae55-336641a566cc.png'}}
+03:27:57 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/272403ba-4d85-4338-ad89-04c24bc87955.png'}}
+03:44:29 check token 21335665-949f-4e03-b1c4-d90abc694b24 5a4d0d2d8da65b0d6cccc779
+03:44:30 check token 3224cfbd-fbd8-4a3a-9242-0eddfeb09130 5a4d0d2d8da65b0d6cccc779
+03:44:30 check token f144085c-26b6-4d8c-a6fa-de13ad978102 5a4d0d2d8da65b0d6cccc779
+03:44:58 check token 717bd7c6-dede-45b5-b431-cb28df9de4db 5a4d0d2d8da65b0d6cccc779
+03:45:44 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/ce2dd4b9-9855-4f90-903f-2f651de5a086.png'}}
+03:54:13 uuser <User: 
+  _id = 5a4d0d2d8da65b0d6cccc779
+  deleted = False
+  created_time = 1514999085
+  updated_time = 1514999085
+  username = liu
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  user_image = /uploads/ce2dd4b9-9855-4f90-903f-2f651de5a086.png
+  id = 5a4d0d2d8da65b0d6cccc779
+>
+03:54:13 mongo update {'_id': ObjectId('5a4d0d2d8da65b0d6cccc779')} {'$set': {'user_image': '/uploads/6585cd79-5283-41cd-826f-ce0cb49c408c.png'}}
+03:56:42 uuser None
+03:57:22 check token e0ac401f-58eb-4d85-84b6-f895cdd7948d 5a4e87108da65b1b98771295
+03:58:03 uuser <User: 
+  _id = 5a4e87108da65b1b98771295
+  deleted = False
+  created_time = 1515095824
+  updated_time = 1515095824
+  username = liu
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  user_image = /uploads/default.png
+  id = 5a4e87108da65b1b98771295
+>
+03:58:03 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': {'user_image': '/uploads/e2c78bad-b133-41d6-8340-d9d13855fa19.png'}}
+03:59:13 check token 27fd4deb-e319-4077-a893-ce166617e29e 5a4e877a8da65b1b98771297
+03:59:23 reply add
+03:59:23 before send mail ImmutableMultiDict([('topic_id', '5a4e87228da65b1b98771296'), ('content', 'g2g2g2')])
+03:59:23 reply g2g2g2
+03:59:23 reply []
+03:59:23 after send mail
+04:00:37 reply add
+04:00:37 before send mail ImmutableMultiDict([('topic_id', '5a4e87918da65b1b98771298'), ('content', 'g2g2g2回复')])
+04:00:37 reply g2g2g2回复
+04:00:37 reply []
+04:00:37 after send mail
+04:03:04 reply add
+04:03:04 before send mail ImmutableMultiDict([('topic_id', '5a4e87228da65b1b98771296'), ('content', '个g1g1')])
+04:03:04 reply 个g1g1
+04:03:04 reply []
+04:03:04 after send mail
+04:03:37 reply add
+04:03:37 before send mail ImmutableMultiDict([('topic_id', '5a4e87918da65b1b98771298'), ('content', 'g1g1g1')])
+04:03:37 reply g1g1g1
+04:03:37 reply []
+04:03:37 after send mail
+04:04:48 reply add
+04:04:48 before send mail ImmutableMultiDict([('topic_id', '5a4e87918da65b1b98771298'), ('content', 'g2    333')])
+04:04:48 reply g2    333
+04:04:48 reply []
+04:04:48 after send mail
+04:51:20 bbid: all
+05:01:28 bbid: all
+05:03:26 bbid: all
+05:05:34 bbid: all
+05:13:07 bbid: all
+05:15:37 bbid: all
+05:19:09 bbid: all
+05:21:08 bbid: all
+05:22:09 bbid: all
+05:27:28 bbid: all
+05:28:07 bbid: all
+05:45:26 bbid: all
+05:49:47 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'g'), ('signature', '你好')])}
+06:01:07 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'g'), ('signature', '你好')])}
+06:01:14 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '你好')])}
+06:01:38 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '你好')])}
+06:11:58 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '风等等方式')])}
+06:12:01 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '风等等方式')])}
+06:12:43 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '风等等方式')])}
+06:12:45 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'gg'), ('signature', '风等等方式')])}
+06:14:35 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好')])}
+06:14:37 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好')])}
+06:15:25 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好啊啊啊o')])}
+06:15:28 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好啊啊啊o')])}
+06:21:21 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好啊啊啊o')])}
+06:41:16 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好啊啊啊o')])}
+06:42:31 mongo update {'_id': ObjectId('5a4e87108da65b1b98771295')} {'$set': ImmutableMultiDict([('username', 'ggg'), ('signature', '你好啊啊啊o')])}
+06:48:46 bbid: all
+07:24:29 reply add
+07:24:29 before send mail ImmutableMultiDict([('signature', 'ddddddd')])
+07:30:56 reply add
+07:30:56 before send mail ImmutableMultiDict([('signature', 'ddddddd')])
+07:32:46 reply add
+07:32:46 before send mail ImmutableMultiDict([('topic_id', '5a4e87918da65b1b98771298'), ('content', 'dfdf')])
+07:32:46 reply dfdf
+07:32:46 reply []
+07:32:46 after send mail
+07:46:39 bbid: all

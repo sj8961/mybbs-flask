@@ -1,0 +1,96 @@
+{% extends "topic/base.html" %}
+{% block title %}
+帖子详情 {{ topic.title }}
+{% endblock %}
+{% block main %}
+<div id="main">
+    <div id="content">
+        <div class='panel'>
+            <div class='header topic_header'>
+        <span class="topic_full_title">
+			{{ topic.title }}
+      	</span>
+                <div class="changes">
+            <span>
+                发布于 2 天前
+            </span>
+                    <span>
+                作者
+                <a >{{au.username}}</a>
+        	</span>
+                    <span>
+          	    {{ topic.views }} 次浏览
+        	</span>
+                    <span>
+                来自{{b.title}}
+            </span>
+                </div>
+            </div>
+
+            <div class='inner topic'>
+                <div class='topic_content'>
+                    <div class="markdown-text">
+                        {{ topic.content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class='panel'>
+        <div class='header'>
+            <span class='col_fade'>
+                <!-- 过滤器 -->
+                {{ topic.replies() | count }} 回复
+            </span>
+        </div>
+        {% for r in topic.replies() %}
+        <div class='cell reply_area reply_item'>
+            <div class='author_content'>
+                <a href=""{{ url_for('index.user_detail', id=r.id) }}"" class="user_avatar">
+                    <img src="{{ r.user().user_image }}"
+                         title="{{ r.user().username }}"/>
+                </a>
+                <div class='user_info'>
+                    <a class='dark reply_author'>
+                        {{ r.user().username }}
+                    </a>
+                    <a class="reply_time">
+                        {{ loop.index }}楼 • 2 天前
+                    </a>
+                </div>
+                <div class='user_action'>
+                    <span>
+                        <i class="fa up_btn
+                          fa-thumbs-o-up
+                          invisible" title="喜欢"></i>
+                        <span class="up-count">
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <div class='reply_content from-leiwei1991'>
+                <div class="markdown-text">
+                    {{ r.content }}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+        </div>
+        <div class="panel">
+        <div class="inner">
+
+          <form id="text_form" class="form-horizontal" action="{{ url_for('reply.add') }}" method="post">
+            <div class="control-group">
+                <span>添加回复</span></div>
+                <input type="hidden" name="topic_id" value="{{ topic.id }}">
+                <textarea class="input-xlarge markdown-text"  name="content" style="width: 615px;
+    height: 132px;"></textarea>
+                <button class="span-primary submit_btn">回复</button>
+
+          </form>
+        </div>
+      </div>
+
+</div>
+{% endblock %}
